@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.custom.yaml
+!*.schema.yaml
+!*.dict.yaml
+!/dicts
+!*.md

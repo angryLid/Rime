@@ -1,0 +1,12 @@
+patch:
+  show_notifications_when: appropriate     # 状态通知，可设为全开（always）全关（never）  
+
+  # 皮肤主题名称输入在下方，分为浅色和深色
+  # 浅色主题
+  style/color_scheme: macos_light
+  # 深色主题
+  style/color_scheme_dark: macos_dark
+
+  # 皮肤主题
+  preset_color_schemes:
+    __include: themes.custom.yaml:/preset_color_schemes
