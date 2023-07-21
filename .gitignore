@@ -1,7 +1,9 @@
 *
 !.gitignore
-!*.custom.yaml
-!*.schema.yaml
-!*.dict.yaml
-!/dicts
+# 通用配置 配置输入法的候选词个数，翻页键等
+!default.custom.yaml 
+# Windows 小狼毫皮肤配置
+!weasel.custom.yaml
+# macOS 鼠须管皮肤配置
+!squirrel.custom.yaml
 !*.md
