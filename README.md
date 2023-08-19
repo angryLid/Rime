@@ -94,6 +94,9 @@ rime-install.bat iDvel/rime-ice:others/recipes/full
 
 至此所有配置就到此结束了。如果要进一步配置，可以阅读官方wiki或者下面的博文
 
+## 其他语言
+[日文输入法方案](https://github.com/gkovacs/rime-japanese)
+
 ## 参考
 
 [Rime Squirrel 鼠须管输入法配置详解 - 三十年河東(SSNHD.COM)-博客、分享](https://ssnhd.com/2022/01/06/rime/)
